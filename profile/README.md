@@ -14,7 +14,7 @@ and security platforms through open and industry-standard protocols.
 - **miniENV** — Environmental monitoring and automation
 - **sentiaMAN** — Monitoring and management platform
 - **sentiaPRO** — Environmental monitoring and rack access control for data centers
-- **sentiaLOK** — Distributed access control and I/O monitoring platform
+- **sentiaLOK** — Distributed locker control and I/O monitoring platform
 - **smartPDU** — Intelligent power distribution and remote management
 
 ## Integration & Developer Resources
